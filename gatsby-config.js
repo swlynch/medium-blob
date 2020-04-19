@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/medium_blob",
   siteMetadata: {
     title: `MediumBlob`,
     author: {
@@ -6,7 +7,7 @@ module.exports = {
       summary: `who lives and works in Columbus. He develops server-side code in Ruby and Rails.`,
     },
     description: `Me, starting to write.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://mediumblob.party/`,
     social: {
       twitter: `thereisthunder`,
     },
@@ -16,6 +17,7 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/blog`,
+        ignore: process.env.NODE_ENV === `development` && [`**/drafts/*`],
         name: `blog`,
       },
     },
