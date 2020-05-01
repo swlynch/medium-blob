@@ -1,9 +1,9 @@
 ---
 title: Professionalism
 description: "or There's More Than Just Showing Up"
-date: "2020-04-27"
+date: "2020-05-01"
 ---
-I have heard this lament a handful of times since working in business: "I just wish So-And-So could be a professional; I don't know why I should have to explain how to be a professional." When I ask the necessary follow up question--"What do you mean by 'being a professional?'"--this is the list I often receive:
+I have heard the lament a handful of times since working in business that someone wished another person would just act like a professional, that it's not complicated. When I ask the necessary follow up question--What do you mean by 'act like a professional?'--this is the list I often receive:
 - showing up before the time stand-up starts
 - being at your desk
 - sitting in your seat and do your work
@@ -49,3 +49,5 @@ Team standards or expectations are not always as clear as some of those expectat
 - It is challenging to know how to give feedback and constructive tools for people struggling with those "higher-class" behaviors.
 
 As is often said, just because something is difficult doesn't mean it shouldn't be done. And given the potential for people to work more thoughtfully with one another--and given the need for us to expect more from each other with the complexity of the tasks we have--it is necessary for any organization looking to fulfill its workforce's potential.
+
+In future posts, I would like to address two of the ideas that came up here in writing this: how a leader or a peer might give feedback to a professional about those "higher-class" expectations, e.g. how might you coach someone on posing questions out curiosity; and how you might address some of those "lower-class" behaviors (sitting at your desk) when necessary.
